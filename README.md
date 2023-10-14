@@ -12,6 +12,7 @@ Luego, activar el entorno virtual:
 
 ### bash
 source nombre_del_entorno_virtual/bin/activate    #### En Linux/macOS
+
 nombre_del_entorno_virtual\Scripts\activate       #### En Windows
 Instalar las dependencias:
 
